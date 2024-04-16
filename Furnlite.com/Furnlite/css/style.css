@@ -160,9 +160,10 @@ color: #df8133;
 color:  #df8133;
 }
 .dark .contact-field input, .dark .contact-field select,.dark .contact-field textarea {
-  border: 1px solid #161616;
-  background: #161616;
-    color: #fff;
+  border: 2px solid #161616;
+  background: #fff;
+  border-radius: 20px;
+    color: black;
 }
 .dark .contact-field i {
   color: #df8133;
